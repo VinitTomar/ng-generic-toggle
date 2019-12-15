@@ -1,0 +1,24 @@
+{
+  "name": "ng-generic-toggle",
+  "version": "1.1.2",
+  "author": {
+    "name": "Vinit Tomar",
+    "email": "vinit.tomar68@gmail.com"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "keywords": [
+    "ng-generic-toggle",
+    "generic-toggle",
+    "toggle",
+    "ng",
+    "angular"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinitTomar/ng-generic-toggle.git"
+  }
+}
