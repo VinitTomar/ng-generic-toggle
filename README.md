@@ -10,6 +10,8 @@ To use `NgGenericToogle` we have to provide both checked and unchecked state HTM
 
 npm install --save ng-generic-toggle
 
+For Angular 10 use version 2.0.x
+
 ## Usage
 
 1. Import `NgGenericToggleModule` in the component module where we want to use generict toggle.
